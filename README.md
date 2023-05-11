@@ -1,2 +1,2 @@
 # SP
-PLaying around with Kotlin to make a game in Android Studio
+Playing around with Kotlin to make a game in Android Studio
